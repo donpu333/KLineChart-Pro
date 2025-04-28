@@ -1,0 +1,12 @@
+# Файлы macOS
+.DS_Store
+
+# Папка сборки (если используете Webpack/Vite и т.д.)
+dist/
+
+# Файлы окружения
+.env
+.env.local
+
+# Зависимости
+node_modules/
